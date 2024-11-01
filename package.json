@@ -1,0 +1,13 @@
+{
+ "name": "voizy-wordpress-plugin",
+ "version": "0.0.1",
+ "private": true,
+ "dependencies": {
+  "cgb-scripts": "1.17.0"
+ },
+ "scripts": {
+  "start": "cgb-scripts start",
+  "eject": "cgb-scripts eject",
+  "build": "cgb-scripts build"
+ }
+}
